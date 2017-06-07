@@ -1,0 +1,6 @@
+Class Student{
+    Private String id_Student;
+    Private String shortname;
+    Private String facerec_code;
+
+};
