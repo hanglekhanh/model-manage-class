@@ -1,4 +1,3 @@
 class Teacher extends Employee{
     Private List<Course> teaching_course;
-    
 }

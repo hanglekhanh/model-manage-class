@@ -1,7 +1,7 @@
 class Schedule{
-    Private String date_start;
-    Private String date_end;
-    Private String time_start;
-    Private String time_end;
-    Private List<String> days_of_the_week;
+    Protected String date_start;
+    Protected String date_end;
+    Protected String time_start;
+    Protected String time_end;
+    Protected List<String> days_of_the_week;
 }

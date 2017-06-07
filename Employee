@@ -1,7 +1,7 @@
 class Employee{
-    Private String id_employee;
-    Private String shortname;
-    Private String work_location;
-    Private String id_team;
-    Private String facerec_code;
+    Protected String id_employee;
+    Protected String shortname;
+    Protected String work_location;
+    Protected String id_team;
+    Protected String facerec_code;
 }

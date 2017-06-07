@@ -1,7 +1,7 @@
 class Class {
-    private String id_class;
-    private Course course;
-    private Teacher teacher;
-    private List<Student> list_student;
-    private Schedule schedule;
+    Private String id_class;
+    Private Course course;
+    Private Teacher teacher;
+    Public List<Student> list_student;
+    Private Schedule schedule;
 }
