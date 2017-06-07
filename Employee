@@ -1,5 +1,7 @@
 class Employee{
     Private String id_employee;
     Private String shortname;
+    Private String work_location;
+    Private String id_team;
     Private String facerec_code;
 }

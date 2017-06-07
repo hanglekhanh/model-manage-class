@@ -1,0 +1,7 @@
+class Class {
+    private String id_class;
+    private Course course;
+    private Teacher teacher;
+    private List<Student> list_student;
+    private Schedule schedule;
+}
